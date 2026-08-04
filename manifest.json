@@ -1,7 +1,7 @@
 {
   "id": "com.aaprod.top1003dmovies",
   "version": "1.0.0",
-  "name": "Top 100 3D Movies",
+  "name": "Top 3D Movies",
   "description": "Top 100 IMDb-rated movies released on Blu-ray 3D, displayed from newest to oldest.",
   "resources": [
     "catalog"
@@ -11,9 +11,9 @@
   ],
   "catalogs": [
     {
-      "type": "movie",
-      "id": "top-100-3d-movies",
-      "name": "Top 100 3D Movies"
+      "type": "",
+      "id": "top-3d-movies",
+      "name": "Top 3D Movies"
     }
   ],
   "idPrefixes": [
